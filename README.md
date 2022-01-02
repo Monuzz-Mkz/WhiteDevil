@@ -42,9 +42,9 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
     <img src="https://img.shields.io/github/repo-size/terror-boy/WhiteDevil?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/terror-boy/followers"><img title="Followers" src="https://img.shields.io/github/followers/terror-boy?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/terror-boy/WhiteDevil?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Monuzz-Mkz/WhiteDevil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
+<a href="https://github.com/Monuzz-Mkz/WhiteDevil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
+<a href="https://github.com/Monuzz-Mkz/WhiteDevil/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/terror-boy/WhiteDevil?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -58,7 +58,7 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/KDT4Q5F4zq99ubruR5T9k1)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=nightowl)](https://github.com/terror-boy/WhiteDevil)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=nightowl)](https://github.com/Monuzz-Mkz/WhiteDevil)
   </div>
     
 ## Setup
@@ -68,7 +68,7 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
   
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/terror-boy/WhiteDevil)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Monuzz-Mkz/WhiteDevil)
   
   
  
@@ -94,7 +94,7 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
     
 ### 📃 How Can I Download the Bot Script?
 
-You Can **[Click Here](https://github.com/terror-boy/WhiteDevil/archive/refs/heads/Terror-boy.zip)** To Download The **Bot Script**.. This Script is Free, So **Don't Sell This Script in High Price.** 
+You Can **[Click Here](https://github.com/Monuzz-Mkz/WhiteDevil/archive/refs/heads/Terror-boy.zip)** To Download The **Bot Script**.. This Script is Free, So **Don't Sell This Script in High Price.** 
         
             
  ### F.A.Q
@@ -122,7 +122,7 @@ If you are concerned about security, you can install it on your own computer. If
     
 ### ❗ Does our number will banned from WhatsApp by Using This Bot?
 
-If you are concerned about that, Then you can just use bot on a [Fake Number](https://youtu.be/v8lGcQp0RjQ). **[Also Read This Warning](https://github.com/terror-boy/WhiteDevil#-warning-)**
+If you are concerned about that, Then you can just use bot on a [Fake Number](https://youtu.be/v8lGcQp0RjQ). **[Also Read This Warning](https://github.com/Monuzz-Mkz/WhiteDevil#-warning-)**
 
 ### 🔄 Can I Edit this bot?
 
